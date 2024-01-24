@@ -14,9 +14,9 @@ When you get an instruction `'R'`, your car does the following:
 - Your position stays the same.
 
 **Example:**
-- sequence: `AAR`
-- your car goes to positions `0 --> 1 --> 3 --> 3`
-- your speed goes to `1 --> 2 --> 4 --> -1`
+> sequence: `AAR` \
+your car goes to positions `0 --> 1 --> 3 --> 3` \
+your speed goes to `1 --> 2 --> 4 --> -1`
 
 Given a target position target, return the length of the shortest sequence of instructions to get there.
 
