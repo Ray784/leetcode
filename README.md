@@ -34,5 +34,6 @@ Feel free to contribute by adding more solutions, optimizing existing ones, or p
 6. Explain why your solution is better.
 7. Share LeetCode screenshots.
 8. Submit a pull request.
+9. Trivial questions and bruteforce solutions not allowed.
 
 Happy Coding!
