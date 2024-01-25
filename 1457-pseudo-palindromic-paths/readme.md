@@ -5,11 +5,12 @@
 - i.e. any permutation of the array is a palindrome then array is pseudo-palindrome.
 - Return the number of pseudo-palindromic paths going from the root node to leaf nodes.
 
-**Example:**
-![tree-1](./assets/example-1.jpg)
+**Example:** \
+<img src="./assets/example-1.jpg" width=40% height=40%>
 >**Input:** root = `[2,3,1,3,1,null,1]` \
 **Output:** 2 \
 **Explanation:** The figure above represents the given binary tree. There are three paths going from the root node to leaf nodes: the red path `[2,3,3]`, the green path `[2,1,1]`, and the path `[2,3,1]`. Among these paths only red path and green path are pseudo-palindromic paths since the red path `[2,3,3]` can be rearranged in `[3,2,3]` (palindrome) and the green path `[2,1,1]` can be rearranged in `[1,2,1]` (palindrome).
+
 [pseudo-palindromic-paths-in-a-binary-tree on leetcode](https://leetcode.com/problems/pseudo-palindromic-paths-in-a-binary-tree/description/)
 
 ## Solution
